@@ -13,3 +13,6 @@ API criada com objetivo de ranquear as linguagens de programação. Relacionada 
 **✔** Finalizar o CRUD (Create, Read, Update e Delete) para que se possa atualizar e excluir uma linguagem cadastrada <br>
 **✔** Devolver a listagem ordenada pelo ranking <br>
 **✔** Retornar o status 201 quando um recurso (linguagem, no nosso caso) for cadastrado através do POST <br>
+
+## 🎉 Deploy no Heroku
+https://alura-imersao-api.herokuapp.com/linguagens <br>
